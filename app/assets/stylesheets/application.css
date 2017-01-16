@@ -18,6 +18,8 @@ html, body{
   text-align: center;
   margin-top: 180px;
 }
+
 .content {
   height: 300px;
+  padding-top: 30px;
 }
